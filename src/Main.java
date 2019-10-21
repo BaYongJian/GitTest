@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Git,I am come from IDEA!!!");
+        System.out.println("Hello Git,I am come from IDEA, too!!!");
     }
 }
